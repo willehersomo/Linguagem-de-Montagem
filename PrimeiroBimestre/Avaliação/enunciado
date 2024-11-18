@@ -1,0 +1,9 @@
+1. Para uma competição, onde participam 4 equipes de futebol, leia as pontuações em
+ordem crescente e apresente a diferença de pontos entre o primeiro e o último
+colocado. (2 pontos)
+
+2. Considerando a pontuação do exercício anterior faça um programa que some as
+diferenças entre os colocados: 1o e 2o + 2o e 3o + 3o e 4o. (1 ponto)
+
+3. Ainda em relação ao primeiro exercício, some todas as pontuações e encontre a
+diferença de pontos entre o total e o 1o colocado. (1 ponto)
